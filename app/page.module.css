@@ -1,0 +1,17 @@
+.main {
+  padding: 40px;
+  font-family: sans-serif;
+}
+
+.hero {
+  margin-bottom: 40px;
+}
+
+.title {
+  font-size: 40px;
+  color: purple;
+}
+
+.text {
+  color: gray;
+}
